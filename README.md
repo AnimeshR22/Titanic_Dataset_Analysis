@@ -5,18 +5,29 @@ data set
 The Titanic dataset used in this analysis is contained in the file titanic.csv, which contains the following variables:
 
 PassengerId - A unique ID for each passenger
+
 Survived - did the passenger survive (0 = no, 1 = yes)
+
 Pclass - engineer class (1 = 1, 2 = 2, 3 = 3)
+
 Name - Engineer's name
+
 Gender is the nurse's gender
+
 Age - the age of an engineer
+
 SibSp - Number of siblings/spouses on the Titanic
+
 Piece - The number of parents/children on the Titanic
+
 Ticket - Ticket number
+
 Price - speed engineer
+
 Cabin - cabin number
+
 Port - Port (C = Cherbourg, Q = Queenstown, S = Southampton)
-Research
+
 The analysis was performed using the Python programming language and the following libraries:
 Pandas, Numpy, Seaborn
 
